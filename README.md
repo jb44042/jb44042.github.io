@@ -4,7 +4,8 @@
   </head>
   
   <body>
-    <div style="width: 100%; height: 80px; background-color: red;">
+    <div style="display: block; width: 100%; height: auto; overflow: hidden;">
+      <img src="https://i.ibb.co/SdNx69N/IMG-0925.jpg">
     </div>
   </body>
 </html>
