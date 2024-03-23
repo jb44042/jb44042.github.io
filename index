@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" 
+            integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    </head>
+
+    <body>
+        <!-- HEADER -->
+        <center>
+            <h1><u>The Harrington Family</u></h1>
+            <b style="font-size: 30px; color: gray;">Eunice Yvonne Harrington</b>
+        </center>
+        <div style="display: block; width: 100%; height: 400px; background-image: url('https://i.ibb.co/SdNx69N/IMG-0925.jpg'); background-position: center; background-size:cover; background-repeat: no-repeat; overflow: hidden; justify-content: center;">
+        </div>
+
+        <!-- POEM -->
+        <div style="display: block; overflow: hidden; padding: 20px 0px 0px 0px;">
+            <div style="display: flex; justify-content: center;">
+                <b class="h1" style="color: gray; font-size: 20px;">Our Mother Poem</b>
+            </div>
+            <div style="display: flex; justify-content: center; overflow: hidden; padding: 10px;">
+                <p style="30px;">You can only have one Mother
+                    Patient, kind and true;
+                    No other friend in all the world,
+                    Will be the same to you.
+                    When other friends forsake you,
+                    To mother you will return,
+                    For all her loving kindness,
+                    She asks nothing in return.
+                    As we look upon her picture,
+                    Sweet memories we recall,
+                    Of a face so full of sunshine,
+                    And a smile for one and all.
+                    Sweet Jesus, take this message,
+                    To our dear Mother up above;
+                    Tell her how we miss her,
+                    And give her all our love.
+                    </p>
+            </div>
+        </div>
+
+        <!-- DOWNLOAD BTN -->
+        <div style="display: flex; width: 100%; height: auto; overflow: hidden; justify-content: center; margin: 0px 0px 50px 0px;">
+            <a href="Grandma Slide Pics.pdf.zip"><button>Download Family Photo Gallery</button></a>
+        </div>
+    </body>
+</html>
