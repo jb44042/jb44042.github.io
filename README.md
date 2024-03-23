@@ -1,7 +1,11 @@
 <!--# jb44042.github.io-->
 <!DOCTYPE html>
 <html>
+  <head>
+  </head>
+  
   <body>
-    <p>test</p>
+    <div style="width: 100%; height: 80px; background-color: gray;">
+    </div>
   </body>
 </html>
